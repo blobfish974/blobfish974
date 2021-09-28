@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello ! 👋
+
+🎓️ I'm currently studying in Télécom Paris but graduated from ESILV engineer school beforehand.
+
+🎯️ I'm looking forward to new project especially in cybersecurity.
+
+My public repositories mainly contain projects I did at ESILV (so mostly web projects).
+
+Happy browsing!
+
 
 <!--
 **blobfish974/blobfish974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
