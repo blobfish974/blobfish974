@@ -1,6 +1,6 @@
 ### Hello ! 👋
 
-🎓️ I'm currently studying in Télécom Paris but graduated from ESILV engineer school beforehand.
+🎓️ I'm currently studying in Télécom Paris and previously graduated from ESILV engineer school.
 
 🎯️ I'm looking forward to new project especially in cybersecurity.
 
